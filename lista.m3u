@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Películas",Big Buck Bunny
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-name="Sintel" group-title="Películas",Sintel
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:-1 tvg-name="Tears of Steel" group-title="Series",Tears of Steel - Temporada 1
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:-1 group-title="Canales TV",Apple HLS Demo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
