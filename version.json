@@ -1,7 +1,6 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "0.3.0",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/latest",
-  "mandatory": false,
-  "notes": "Versión inicial de Miro"
+  "latestVersionCode": 11,
+  "latestVersionName": "0.5.1",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.5.1/MiroTv.apk",
+  "notes": "Control remoto en TV, categorías y números de canal"
 }
