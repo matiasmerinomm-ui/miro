@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Películas",Big Buck Bunny
+
+# CANALES EN VIVO
+#EXTINF:-1 tvg-chno="1" tvg-name="Discovery Channel" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="CULTURA",Discovery Channel
+http://stkip.ddns.me:2082/live/stkpahe/2597/2455.m3u8
+
+# PELÍCULAS
+#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="PELÍCULAS",Big Buck Bunny
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXTINF:-1 tvg-name="Sintel" group-title="Películas",Sintel
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-#EXTINF:-1 tvg-name="Tears of Steel" group-title="Series",Tears of Steel - Temporada 1
+
+# SERIES
+#EXTINF:-1 tvg-name="Tears of Steel" group-title="SERIES",Tears of Steel - T1 E1
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
-#EXTINF:-1 group-title="Canales TV",Apple HLS Demo
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
