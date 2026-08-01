@@ -1,8 +1,10 @@
 #EXTM3U
 
 # CANALES EN VIVO
-#EXTINF:-1 tvg-chno="1" tvg-name="Discovery Channel" tvg-logo="http://img1.wikia.nocookie.net/__cb20141027100430/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="CULTURA",Discovery Channel
-http://stkip.ddns.me:2082/live/stkpahe/2597/2455.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-name="Fox Sports 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="DEPORTES",Fox Sports 2
+http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/167735
+#EXTINF:-1 tvg-chno="2" tvg-name="Canal de Prueba" group-title="PRUEBA",Canal de Prueba (HLS)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 # PELÍCULAS
 #EXTINF:-1 tvg-name="Big Buck Bunny" group-title="PELÍCULAS",Big Buck Bunny
