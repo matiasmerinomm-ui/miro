@@ -1,6 +1,7 @@
 {
   "codes": {
     "aa4cfc69c5a3c01a4a9b72d304770ab4534c9a2c459a29c499056c4992ada345": { "days": 30, "label": "Prueba MIRO-2025" },
-    "7e78b10425dd97bc613144ca0c54e051d92a439c33f5090c0f4f5138a2d4240b": { "days": 7, "label": "Prueba DEMO-7DIAS" }
+    "7e78b10425dd97bc613144ca0c54e051d92a439c33f5090c0f4f5138a2d4240b": { "days": 7, "label": "Prueba DEMO-7DIAS" },
+    "71074c0767568918fd3d13afc08d8ced14f1f0b90bb49ec713df909919782a56": { "days": 7, "label": "Edgardo" }
   }
 }
