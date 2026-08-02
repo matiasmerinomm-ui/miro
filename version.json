@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 31,
-  "latestVersionName": "0.8.6",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.8.6/MiroTv.apk",
-  "notes": "Ahora podés agregar canales a Favoritos desde la TV con el botón de corazón en el reproductor.",
+  "latestVersionCode": 32,
+  "latestVersionName": "0.8.7",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.8.7/MiroTv.apk",
+  "notes": "Botón de Favorito visible en la TV: al abrir un canal, apretá OK en el corazón de arriba a la derecha para agregarlo/sacarlo.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
