@@ -397,7 +397,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 http://cam104y3.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-name="Cámaras de Villa Gesell (La Pinocha)" tvg-logo="https://telechancho.github.io/tvlogos/VillaGesell.jpg" group-title="Argentina",Cámaras de Villa Gesell (La Pinocha)
 http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-chno="200" tvg-name="AR | [ESPN 2]" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="Deporte Argentina",AR | [SŠPN 2]
+#EXTINF:-1 tvg-chno="200" tvg-name="AR | [ESPN ]" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="Deporte Argentina",AR | [SŠPN 2]
 https://5.tvlibre.pe/espn/mono.m3u8?token=74f5f466934300461e266de7a0bdd79766c9b689-64-1785723808-1785705808
 #EXTINF:-1 tvg-chno="201" tvg-name="AR | (SŠPN -3)" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="Deporte Argentina",AR | (SŠPN -3)
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/327916
