@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 38,
-  "latestVersionName": "0.9.4",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.4/MiroTv.apk",
-  "notes": "Barra del reproductor con la estética de Miro y menú 'Más' navegable con el control (arriba/abajo + OK) para subtítulos, audio, episodios y ver desde el inicio.",
+  "latestVersionCode": 39,
+  "latestVersionName": "0.9.5",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.5/MiroTv.apk",
+  "notes": "El menú del reproductor en la TV ahora se navega con arriba/abajo y OK (subtítulos, audio, episodios, ver desde el inicio). Corrige el foco que quedaba pegado en la primera opción.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
