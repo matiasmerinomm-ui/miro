@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "0.5.3",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.5.1/MiroTv.apk",
-  "notes": "Pantalla completa, rotación y mejoras de canales",
+  "latestVersionCode": 31,
+  "latestVersionName": "0.8.6",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.8.6/MiroTv.apk",
+  "notes": "Ahora podés agregar canales a Favoritos desde la TV con el botón de corazón en el reproductor.",
   "mandatory": true,
-  "graceDays": 3,
-  "publishedAt": "2026-08-01"
+  "graceDays": 2,
+  "publishedAt": "2026-08-02"
 }
