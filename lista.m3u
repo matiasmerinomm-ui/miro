@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-name="TN NOTICIAS" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",TN NOTICIAS
+#EXTINF:-1 tvg-chno="1" tvg-name="TN NOTICIAS" tvg-logo="" group-title="Argentina",TN NOTICIAS
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490437
 #EXTINF:-1 tvg-chno="2" tvg-name="ARG | CANAL 26 HD" tvg-logo="http://redworld.pro:8880/images/810cc28538dad9335756506f03410daa.jpg" group-title="Argentina",ARG | CANAL 26 HD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490438
-#EXTINF:-1 tvg-chno="3" tvg-name="ARG | TELEFE" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | TELEFE
+#EXTINF:-1 tvg-chno="3" tvg-name="ARG | TELEFE" tvg-logo="" group-title="Argentina",ARG | TELEFE
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490439
-#EXTINF:-1 tvg-chno="4" tvg-name="ARG | 13 El Trece" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | 13 El Trece
+#EXTINF:-1 tvg-chno="4" tvg-name="ARG | 13 El Trece" tvg-logo="" group-title="Argentina",ARG | 13 El Trece
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490442
 #EXTINF:-1 tvg-chno="5" tvg-name="ARG: A24" tvg-logo="http://redworld.pro:8880/images/b58b7fa78b3287771d8164b37a9ee036.png" group-title="Argentina",ARG: A24
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490446
 #EXTINF:-1 tvg-chno="6" tvg-name="ARG | TV Publica" tvg-logo="http://redworld.pro:8880/images/e18523361e24e6508919b799b7e0a144.png" group-title="Argentina",ARG | TV Publica
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490456
-#EXTINF:-1 tvg-chno="7" tvg-name="ARG | TN HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | TN HD
+#EXTINF:-1 tvg-chno="7" tvg-name="ARG | TN HD" tvg-logo="" group-title="Argentina",ARG | TN HD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490457
-#EXTINF:-1 tvg-chno="8" tvg-name="ARG | Telefe" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | Telefe
+#EXTINF:-1 tvg-chno="8" tvg-name="ARG | Telefe" tvg-logo="" group-title="Argentina",ARG | Telefe
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490458
-#EXTINF:-1 tvg-chno="9" tvg-name="ARG | NET TV" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | NET TV
+#EXTINF:-1 tvg-chno="9" tvg-name="ARG | NET TV" tvg-logo="" group-title="Argentina",ARG | NET TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490459
-#EXTINF:-1 tvg-chno="10" tvg-name="ARG | El Nueve HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | El Nueve HD
+#EXTINF:-1 tvg-chno="10" tvg-name="ARG | El Nueve HD" tvg-logo="" group-title="Argentina",ARG | El Nueve HD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490460
 #EXTINF:-1 tvg-chno="11" tvg-name="ARG | Cine AR" tvg-logo="http://redworld.pro:8880/images/9886b06ab7ad16606fa6213688d32688.png" group-title="Argentina",ARG | Cine AR
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490461
-#EXTINF:-1 tvg-chno="12" tvg-name="ARG | Volver" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | Volver
+#EXTINF:-1 tvg-chno="12" tvg-name="ARG | Volver" tvg-logo="" group-title="Argentina",ARG | Volver
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490462
-#EXTINF:-1 tvg-chno="13" tvg-name="ARG | America" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | America
+#EXTINF:-1 tvg-chno="13" tvg-name="ARG | America" tvg-logo="" group-title="Argentina",ARG | America
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490463
 #EXTINF:-1 tvg-chno="14" tvg-name="ARG | A24" tvg-logo="http://redworld.pro:8880/images/8ac7ad5064fb474a705b93f74e1a358b.png" group-title="Argentina",ARG | A24
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490464
@@ -33,13 +33,13 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490465
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490466
 #EXTINF:-1 tvg-chno="17" tvg-name="CANAL A24" tvg-logo="http://redworld.pro:8880/images/b58b7fa78b3287771d8164b37a9ee036.png" group-title="Argentina",CANAL A24
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490467
-#EXTINF:-1 tvg-chno="18" tvg-name="ARG | EL NUEVE HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",ARG | EL NUEVE HD
+#EXTINF:-1 tvg-chno="18" tvg-name="ARG | EL NUEVE HD" tvg-logo="" group-title="Argentina",ARG | EL NUEVE HD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490472
 #EXTINF:-1 tvg-chno="19" tvg-name="ARG | CRONICA TV" tvg-logo="http://redworld.pro:8880/images/e6d86f0dd1f02038b3dd1311ed5f7639.jpeg" group-title="Argentina",ARG | CRONICA TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490473
 #EXTINF:-1 tvg-chno="20" tvg-name="ARG CANAL 7 SALTA" tvg-logo="http://redworld.pro:8880/images/de8c3a2221c2a52944a9fecb8b805edd.jpeg" group-title="Argentina",ARG CANAL 7 SALTA
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490476
-#EXTINF:-1 tvg-chno="21" tvg-name="AR | Multivision" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Argentina",AR | Multivision
+#EXTINF:-1 tvg-chno="21" tvg-name="AR | Multivision" tvg-logo="" group-title="Argentina",AR | Multivision
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490477
 #EXTINF:-1 tvg-chno="22" tvg-name="Canal 5 del Pueblo ✪ | AR" tvg-logo="https://cdn.m3u.cl/logo/858_Canal_5_del_Pueblo.png" group-title="Argentina",Canal 5 del Pueblo ✪ | AR
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
@@ -657,7 +657,7 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526449
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526450
 #EXTINF:-1 tvg-chno="329" tvg-name="24/7 Lo Mejor de Van Damme" tvg-logo="http://redworld.pro:8880/images/f43c63e41663443bdecf369774e1a629.jpg" group-title="24/7 VIP",24/7 Lo Mejor de Van Damme
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526451
-#EXTINF:-1 tvg-chno="330" tvg-name="24/7 Bud Spencer" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="24/7 VIP",24/7 Bud Spencer
+#EXTINF:-1 tvg-chno="330" tvg-name="24/7 Bud Spencer" tvg-logo="" group-title="24/7 VIP",24/7 Bud Spencer
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526452
 #EXTINF:-1 tvg-chno="331" tvg-name="24/7 Chuck Norris" tvg-logo="http://redworld.pro:8880/images/093509aa052611317d3d611ee0f9ae36.jpg" group-title="24/7 VIP",24/7 Chuck Norris
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526453
@@ -695,9 +695,9 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526468
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526469
 #EXTINF:-1 tvg-chno="348" tvg-name="24/7 Perdidos en el Espacio" tvg-logo="http://redworld.pro:8880/images/fed09ff4fd3e3eaddba90558e71de3b6.jpg" group-title="24/7 VIP",24/7 Perdidos en el Espacio
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526470
-#EXTINF:-1 tvg-chno="349" tvg-name="24/7 Humor Viña 2026" tvg-logo="http://127.0.0.1/" group-title="24/7 VIP",24/7 Humor Viña 2026
+#EXTINF:-1 tvg-chno="349" tvg-name="24/7 Humor Viña 2026" tvg-logo="" group-title="24/7 VIP",24/7 Humor Viña 2026
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526471
-#EXTINF:-1 tvg-chno="350" tvg-name="24/7 Musica Viña 2026" tvg-logo="http://127.0.0.1/" group-title="24/7 VIP",24/7 Musica Viña 2026
+#EXTINF:-1 tvg-chno="350" tvg-name="24/7 Musica Viña 2026" tvg-logo="" group-title="24/7 VIP",24/7 Musica Viña 2026
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526472
 #EXTINF:-1 tvg-chno="351" tvg-name="24/7 Caballeros del Zodiaco 01" tvg-logo="http://redworld.pro:8880/images/39bc1d236350af0b6d6670555c703e7d.png" group-title="24/7 VIP",24/7 Caballeros del Zodiaco 01
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/526474
@@ -1121,11 +1121,11 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/414491
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/414492
 #EXTINF:-1 tvg-chno="561" tvg-name="CINE | TCM SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5C2mxnbZhloXPJ9g7G5nwhyJmJNq06VlqpQ&usqp=CAU" group-title="CINE PREMIUM",CINE | TCM SD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/414493
-#EXTINF:-1 tvg-chno="562" tvg-name="CINE | UNIVERSAL CHANEL FHD" tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM",CINE | UNIVERSAL CHANEL FHD
+#EXTINF:-1 tvg-chno="562" tvg-name="CINE | UNIVERSAL CHANEL FHD" tvg-logo="" group-title="CINE PREMIUM",CINE | UNIVERSAL CHANEL FHD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/414494
-#EXTINF:-1 tvg-chno="563" tvg-name="CINE | UNIVERSAL CHANEL HD" tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM",CINE | UNIVERSAL CHANEL HD
+#EXTINF:-1 tvg-chno="563" tvg-name="CINE | UNIVERSAL CHANEL HD" tvg-logo="" group-title="CINE PREMIUM",CINE | UNIVERSAL CHANEL HD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/414495
-#EXTINF:-1 tvg-chno="564" tvg-name="CINE | UNIVERSAL CHANEL SD" tvg-logo="http://127.0.0.1/" group-title="CINE PREMIUM",CINE | UNIVERSAL CHANEL SD
+#EXTINF:-1 tvg-chno="564" tvg-name="CINE | UNIVERSAL CHANEL SD" tvg-logo="" group-title="CINE PREMIUM",CINE | UNIVERSAL CHANEL SD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/414496
 #EXTINF:-1 tvg-chno="565" tvg-name="CINE | SPACE CHANEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="CINE PREMIUM",CINE | SPACE CHANEL FHD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/414500
@@ -1451,7 +1451,7 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533360
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533361
 #EXTINF:-1 tvg-chno="726" tvg-name="Aurora Media Films" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.jpg" group-title="Guatemala",Aurora Media Films
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533362
-#EXTINF:-1 tvg-chno="727" tvg-name="NUEVO MUNDO TV" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Guatemala",NUEVO MUNDO TV
+#EXTINF:-1 tvg-chno="727" tvg-name="NUEVO MUNDO TV" tvg-logo="" group-title="Guatemala",NUEVO MUNDO TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533363
 #EXTINF:-1 tvg-chno="728" tvg-name="Canal Peniel" tvg-logo="http://redworld.pro:8880/images/d9c969f90ae0d6e2bc89e66000d016f4.png" group-title="Guatemala",Canal Peniel
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533365
@@ -1469,7 +1469,7 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533372
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533374
 #EXTINF:-1 tvg-chno="735" tvg-name="Multivisión Canal 3" tvg-logo="https://i.postimg.cc/XYYKmpYy/multivision-canal-3.webp" group-title="Guatemala",Multivisión Canal 3
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533375
-#EXTINF:-1 tvg-chno="736" tvg-name="GUA | CANAL 3" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Guatemala",GUA | CANAL 3
+#EXTINF:-1 tvg-chno="736" tvg-name="GUA | CANAL 3" tvg-logo="" group-title="Guatemala",GUA | CANAL 3
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533376
 #EXTINF:-1 tvg-chno="737" tvg-name="GUA | CLARO SPORTS 1" tvg-logo="http://lamtv.ddns.net:80/images/f7409de8-9c04-40d3-a8a4-868e42e4a65b.jpg" group-title="Guatemala",GUA | CLARO SPORTS 1
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533377
@@ -1481,7 +1481,7 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533382
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533383
 #EXTINF:-1 tvg-chno="741" tvg-name="GUA | Guatevision" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="Guatemala",GUA | Guatevision
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533384
-#EXTINF:-1 tvg-chno="742" tvg-name="GUA | CANAL 11" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Guatemala",GUA | CANAL 11
+#EXTINF:-1 tvg-chno="742" tvg-name="GUA | CANAL 11" tvg-logo="" group-title="Guatemala",GUA | CANAL 11
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/533388
 #EXTINF:-1 tvg-chno="743" tvg-name="GUA | TN 23 HD" tvg-logo="" group-title="Guatemala",GUA | TN 23 HD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/535084
@@ -1575,19 +1575,19 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534790
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534791
 #EXTINF:-1 tvg-chno="788" tvg-name="MX | ALCARRIA TV" tvg-logo="http://redworld.pro:8880/images/a08b21c5f6983666a0a9e8ed7218f6bd.png" group-title="México",MX | ALCARRIA TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534792
-#EXTINF:-1 tvg-chno="789" tvg-name="MX | CANAL 10 CANCUN" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="México",MX | CANAL 10 CANCUN
+#EXTINF:-1 tvg-chno="789" tvg-name="MX | CANAL 10 CANCUN" tvg-logo="" group-title="México",MX | CANAL 10 CANCUN
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534793
 #EXTINF:-1 tvg-chno="790" tvg-name="MX | MEXIQUENSE TV" tvg-logo="http://redworld.pro:8880/images/bf93b4d64ff458098826860e4b945fc1.png" group-title="México",MX | MEXIQUENSE TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534794
 #EXTINF:-1 tvg-chno="791" tvg-name="MX | MAS CHIC" tvg-logo="http://redworld.pro:8880/images/ffa6d65bbbcdbda230c37ff5a49ca239.png" group-title="México",MX | MAS CHIC
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534795
-#EXTINF:-1 tvg-chno="792" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="México",MX | MILENIO HD
+#EXTINF:-1 tvg-chno="792" tvg-name="MX | MILENIO HD" tvg-logo="" group-title="México",MX | MILENIO HD
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534796
 #EXTINF:-1 tvg-chno="793" tvg-name="MX Teleformula" tvg-logo="http://redworld.pro:8880/images/45d417a5f2fad42a3f707b46b1331816.png" group-title="México",MX Teleformula
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534797
-#EXTINF:-1 tvg-chno="794" tvg-name="MX | AZTECA CLIC" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="México",MX | AZTECA CLIC
+#EXTINF:-1 tvg-chno="794" tvg-name="MX | AZTECA CLIC" tvg-logo="" group-title="México",MX | AZTECA CLIC
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534798
-#EXTINF:-1 tvg-chno="795" tvg-name="MX | TELEVISA PUEBLA" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="México",MX | TELEVISA PUEBLA
+#EXTINF:-1 tvg-chno="795" tvg-name="MX | TELEVISA PUEBLA" tvg-logo="" group-title="México",MX | TELEVISA PUEBLA
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534800
 #EXTINF:-1 tvg-chno="796" tvg-name="MX | ALCANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4aAtmKnHL3mADcP2kkREw4srHVC0r3rYSA&s" group-title="México",MX | ALCANCE TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534801
@@ -1595,13 +1595,13 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534801
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534802
 #EXTINF:-1 tvg-chno="798" tvg-name="MX | CANAL 44" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0b0YaeJZsf3VYeAyKZUc-SLjZfeqaYQj-Q&s" group-title="México",MX | CANAL 44
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534803
-#EXTINF:-1 tvg-chno="799" tvg-name="MX | ILCE TV" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="México",MX | ILCE TV
+#EXTINF:-1 tvg-chno="799" tvg-name="MX | ILCE TV" tvg-logo="" group-title="México",MX | ILCE TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534804
 #EXTINF:-1 tvg-chno="800" tvg-name="MX UNIVISION NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUosVlbnYJnLvdrLrokjyX_M4lnNphe7_SQ&s" group-title="México",MX UNIVISION NOTICIAS
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534805
-#EXTINF:-1 tvg-chno="801" tvg-name="8NTV (MX)" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="México",8NTV (MX)
+#EXTINF:-1 tvg-chno="801" tvg-name="8NTV (MX)" tvg-logo="" group-title="México",8NTV (MX)
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534807
-#EXTINF:-1 tvg-chno="802" tvg-name="ANTENA TV (MX)" tvg-logo="http://127.0.0.1/" group-title="México",ANTENA TV (MX)
+#EXTINF:-1 tvg-chno="802" tvg-name="ANTENA TV (MX)" tvg-logo="" group-title="México",ANTENA TV (MX)
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534808
 #EXTINF:-1 tvg-chno="803" tvg-name="CANAL ONCE OP1" tvg-logo="http://redworld.pro:8880/images/1f93df939b2826d34d67fab28ff87b44.png" group-title="México",CANAL ONCE OP1
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534814
@@ -1629,15 +1629,15 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534828
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534830
 #EXTINF:-1 tvg-chno="815" tvg-name="TVP MAZATLAN" tvg-logo="http://redworld.pro:8880/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="México",TVP MAZATLAN
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534832
-#EXTINF:-1 tvg-chno="816" tvg-name="TELEVISA MONTERREY" tvg-logo="http://127.0.0.1/" group-title="México",TELEVISA MONTERREY
+#EXTINF:-1 tvg-chno="816" tvg-name="TELEVISA MONTERREY" tvg-logo="" group-title="México",TELEVISA MONTERREY
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534834
-#EXTINF:-1 tvg-chno="817" tvg-name="MULTIMEDIOS JUAREZ" tvg-logo="http://127.0.0.1/" group-title="México",MULTIMEDIOS JUAREZ
+#EXTINF:-1 tvg-chno="817" tvg-name="MULTIMEDIOS JUAREZ" tvg-logo="" group-title="México",MULTIMEDIOS JUAREZ
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534837
-#EXTINF:-1 tvg-chno="818" tvg-name="MULTIMEDIOS GUADALAJARA" tvg-logo="http://127.0.0.1/" group-title="México",MULTIMEDIOS GUADALAJARA
+#EXTINF:-1 tvg-chno="818" tvg-name="MULTIMEDIOS GUADALAJARA" tvg-logo="" group-title="México",MULTIMEDIOS GUADALAJARA
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534838
-#EXTINF:-1 tvg-chno="819" tvg-name="MILENIO" tvg-logo="http://127.0.0.1/" group-title="México",MILENIO
+#EXTINF:-1 tvg-chno="819" tvg-name="MILENIO" tvg-logo="" group-title="México",MILENIO
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534844
-#EXTINF:-1 tvg-chno="820" tvg-name="MX GOURMET" tvg-logo="http://127.0.0.1/" group-title="México",MX GOURMET
+#EXTINF:-1 tvg-chno="820" tvg-name="MX GOURMET" tvg-logo="" group-title="México",MX GOURMET
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/534847
 #EXTINF:-1 tvg-chno="821" tvg-name="Canal 10" tvg-logo="http://goldfull.pro:8880/images/71ead3030bbac67c33989e137d66742c.png" group-title="Nicaragua",Canal 10
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/357691
@@ -1649,7 +1649,7 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/357698
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/518524
 #EXTINF:-1 tvg-chno="825" tvg-name="NOTI | RT EN ESPANOL" tvg-logo="http://svtv.xyz:8000/images/5b278c5acc0456d50aa7f723fdd0c858.png" group-title="Noticias",NOTI | RT EN ESPANOL
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/518528
-#EXTINF:-1 tvg-chno="826" tvg-name="CNN CHILE" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="Noticias",CNN CHILE
+#EXTINF:-1 tvg-chno="826" tvg-name="CNN CHILE" tvg-logo="" group-title="Noticias",CNN CHILE
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/518530
 #EXTINF:-1 tvg-chno="827" tvg-name="PANAMA | RPC TV" tvg-logo="http://redworld.pro:8880/images/b823b2f7d32514006bcd3e6af84ac0fa.png" group-title="Panama",PANAMA | RPC TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/418182
@@ -1741,9 +1741,9 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/354748
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/354749
 #EXTINF:-1 tvg-chno="871" tvg-name="PR | WAPA AMERICA" tvg-logo="http://goldfull.pro:8880/images/933eb3d2ba12c4f69723040906d09478.png" group-title="Puerto Rico",PR | WAPA AMERICA
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/374750
-#EXTINF:-1 tvg-chno="872" tvg-name="RD = CANAL 164 Luz Divina TV" tvg-logo="http://127.0.0.1/" group-title="República Dominicana",RD = CANAL 164 Luz Divina TV
+#EXTINF:-1 tvg-chno="872" tvg-name="RD = CANAL 164 Luz Divina TV" tvg-logo="" group-title="República Dominicana",RD = CANAL 164 Luz Divina TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/423193
-#EXTINF:-1 tvg-chno="873" tvg-name="RD = CANAL 33 MICROVISION" tvg-logo="http://127.0.0.1/" group-title="República Dominicana",RD = CANAL 33 MICROVISION
+#EXTINF:-1 tvg-chno="873" tvg-name="RD = CANAL 33 MICROVISION" tvg-logo="" group-title="República Dominicana",RD = CANAL 33 MICROVISION
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/423200
 #EXTINF:-1 tvg-chno="874" tvg-name="Latino | A3S" tvg-logo="http://redworld.pro:8880/images/275f7a0c2a55fcac1f240202bcf219a0.png" group-title="Telenovelas",Latino | A3S
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/135427
