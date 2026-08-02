@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 37,
-  "latestVersionName": "0.9.3",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.3/MiroTv.apk",
-  "notes": "En la TV, las pelis y series se controlan directo con el control: OK play/pausa, izquierda/derecha para retroceder o adelantar 10s, y arriba/abajo abre el menú (Ver desde el inicio, subtítulos, audio, episodios). Botón Ver desde el inicio también en el celular.",
+  "latestVersionCode": 38,
+  "latestVersionName": "0.9.4",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.4/MiroTv.apk",
+  "notes": "Barra del reproductor con la estética de Miro y menú 'Más' navegable con el control (arriba/abajo + OK) para subtítulos, audio, episodios y ver desde el inicio.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
