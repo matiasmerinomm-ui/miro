@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 36,
-  "latestVersionName": "0.9.2",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.2/MiroTv.apk",
-  "notes": "Controles de pelis/series en la TV ahora responden al control remoto. Barra de progreso con colores de Miro y más accesible. Retomar más confiable y ya no se mezclan pelis con series en Seguir viendo.",
+  "latestVersionCode": 37,
+  "latestVersionName": "0.9.3",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.3/MiroTv.apk",
+  "notes": "En la TV, las pelis y series se controlan directo con el control: OK play/pausa, izquierda/derecha para retroceder o adelantar 10s, y arriba/abajo abre el menú (Ver desde el inicio, subtítulos, audio, episodios). Botón Ver desde el inicio también en el celular.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
