@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 34,
-  "latestVersionName": "0.9.0",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.0/MiroTv.apk",
-  "notes": "Nueva sección 'Seguir viendo' en Películas: retomá pelis y episodios desde donde los dejaste.",
+  "latestVersionCode": 35,
+  "latestVersionName": "0.9.1",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.1/MiroTv.apk",
+  "notes": "Seguir viendo ahora retoma desde donde dejaste. Las series aparecen en Series. Controles completos (pausa, avance, subtítulos y audio) en la TV, y aviso de próximo episodio.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
