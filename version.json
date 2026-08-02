@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 33,
-  "latestVersionName": "0.8.8",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.8.8/MiroTv.apk",
-  "notes": "El botón de Favorito en la TV ahora responde al OK del control y se oculta solo a los 5 segundos.",
+  "latestVersionCode": 34,
+  "latestVersionName": "0.9.0",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.0/MiroTv.apk",
+  "notes": "Nueva sección 'Seguir viendo' en Películas: retomá pelis y episodios desde donde los dejaste.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
