@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 35,
-  "latestVersionName": "0.9.1",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.1/MiroTv.apk",
-  "notes": "Seguir viendo ahora retoma desde donde dejaste. Las series aparecen en Series. Controles completos (pausa, avance, subtítulos y audio) en la TV, y aviso de próximo episodio.",
+  "latestVersionCode": 36,
+  "latestVersionName": "0.9.2",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.2/MiroTv.apk",
+  "notes": "Controles de pelis/series en la TV ahora responden al control remoto. Barra de progreso con colores de Miro y más accesible. Retomar más confiable y ya no se mezclan pelis con series en Seguir viendo.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
