@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 32,
-  "latestVersionName": "0.8.7",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.8.7/MiroTv.apk",
-  "notes": "Botón de Favorito visible en la TV: al abrir un canal, apretá OK en el corazón de arriba a la derecha para agregarlo/sacarlo.",
+  "latestVersionCode": 33,
+  "latestVersionName": "0.8.8",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.8.8/MiroTv.apk",
+  "notes": "El botón de Favorito en la TV ahora responde al OK del control y se oculta solo a los 5 segundos.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
