@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 42,
-  "latestVersionName": "0.9.8",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.8/MiroTv.apk",
-  "notes": "Series también cargan por categoría bajo demanda (mucho más rápido, antes bajaba 16 MB de golpe). El buscador de series busca en todo el catálogo de series.",
+  "latestVersionCode": 43,
+  "latestVersionName": "0.9.9",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.9/MiroTv.apk",
+  "notes": "Apertura de canales, películas y series más rápida: empieza a mostrar imagen antes, corta y reintenta si el servidor se cuelga, y precalienta la conexión.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-08"
