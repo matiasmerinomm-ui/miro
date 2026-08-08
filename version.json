@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 43,
-  "latestVersionName": "0.9.9",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.9/MiroTv.apk",
-  "notes": "Apertura de canales, películas y series más rápida: empieza a mostrar imagen antes, corta y reintenta si el servidor se cuelga, y precalienta la conexión.",
+  "latestVersionCode": 44,
+  "latestVersionName": "0.9.10",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.10/MiroTv.apk",
+  "notes": "Canales con respaldo automático: si una fuente se cae, la app salta sola a otra sin que lo notes. Lista de canales depurada y unificada.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-08"
