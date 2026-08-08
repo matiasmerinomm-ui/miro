@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Series Ciencia Ficción",
+    "file": "series/series-ciencia-ficcion.m3u",
+    "count": 460
+  },
+  {
+    "name": "Series Narcos",
+    "file": "series/series-narcos.m3u",
+    "count": 2294
+  },
+  {
+    "name": "Series Documentales",
+    "file": "series/series-documentales.m3u",
+    "count": 167
+  },
+  {
+    "name": "Series Acción",
+    "file": "series/series-accion.m3u",
+    "count": 102
+  },
+  {
+    "name": "Series Paramount",
+    "file": "series/series-paramount.m3u",
+    "count": 934
+  },
+  {
+    "name": "Series Starz",
+    "file": "series/series-starz.m3u",
+    "count": 105
+  },
+  {
+    "name": "Series Policiales",
+    "file": "series/series-policiales.m3u",
+    "count": 193
+  },
+  {
+    "name": "Series Religiosas",
+    "file": "series/series-religiosas.m3u",
+    "count": 465
+  },
+  {
+    "name": "Series Retro",
+    "file": "series/series-retro.m3u",
+    "count": 4069
+  },
+  {
+    "name": "Series Comedia",
+    "file": "series/series-comedia.m3u",
+    "count": 1790
+  },
+  {
+    "name": "Doramas",
+    "file": "series/doramas.m3u",
+    "count": 1870
+  },
+  {
+    "name": "Series Anime Gore",
+    "file": "series/series-anime-gore.m3u",
+    "count": 119
+  },
+  {
+    "name": "Series Turcas",
+    "file": "series/series-turcas.m3u",
+    "count": 878
+  },
+  {
+    "name": "Series Apple TV",
+    "file": "series/series-apple-tv.m3u",
+    "count": 404
+  },
+  {
+    "name": "Series HBO",
+    "file": "series/series-hbo.m3u",
+    "count": 2922
+  },
+  {
+    "name": "Series Hulu",
+    "file": "series/series-hulu.m3u",
+    "count": 51
+  },
+  {
+    "name": "Series Infantiles",
+    "file": "series/series-infantiles.m3u",
+    "count": 2944
+  },
+  {
+    "name": "Telenovelas Top",
+    "file": "series/telenovelas-top.m3u",
+    "count": 3556
+  },
+  {
+    "name": "Series Netflix",
+    "file": "series/series-netflix.m3u",
+    "count": 12694
+  },
+  {
+    "name": "Series Colombianas",
+    "file": "series/series-colombianas.m3u",
+    "count": 3628
+  },
+  {
+    "name": "Series Star Plus",
+    "file": "series/series-star-plus.m3u",
+    "count": 2435
+  },
+  {
+    "name": "Series Disney",
+    "file": "series/series-disney.m3u",
+    "count": 1692
+  },
+  {
+    "name": "Series Amazon",
+    "file": "series/series-amazon.m3u",
+    "count": 2888
+  },
+  {
+    "name": "Series Chilenas",
+    "file": "series/series-chilenas.m3u",
+    "count": 7671
+  },
+  {
+    "name": "Series Peruanas",
+    "file": "series/series-peruanas.m3u",
+    "count": 1319
+  },
+  {
+    "name": "Series Anime",
+    "file": "series/series-anime.m3u",
+    "count": 7848
+  },
+  {
+    "name": "Series DragonBall",
+    "file": "series/series-dragonball.m3u",
+    "count": 662
+  },
+  {
+    "name": "Series Mexicanas",
+    "file": "series/series-mexicanas.m3u",
+    "count": 236
+  },
+  {
+    "name": "Series Drama",
+    "file": "series/series-drama.m3u",
+    "count": 395
+  }
+]
