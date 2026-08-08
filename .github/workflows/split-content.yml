@@ -1,0 +1,43 @@
+name: Dividir listas (peliculas / series)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'peliculas.m3u'
+      - 'series.m3u'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: split-content
+  cancel-in-progress: true
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Regenerar categorias e indices
+        run: |
+          python scripts/split_content.py peliculas.m3u peliculas
+          python scripts/split_content.py series.m3u series
+
+      - name: Commitear resultados (si hay cambios)
+        run: |
+          git config user.name "miro-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add peliculas peliculas_index.json series series_index.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "Auto: regenerar categorias e indices"
+            git push
+          fi
