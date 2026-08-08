@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Estrenos 2026",
+    "file": "peliculas/estrenos-2026.m3u",
+    "count": 268
+  },
+  {
+    "name": "Cine Argentino",
+    "file": "peliculas/cine-argentino.m3u",
+    "count": 124
+  },
+  {
+    "name": "Cine Clásicos",
+    "file": "peliculas/cine-clasicos.m3u",
+    "count": 612
+  },
+  {
+    "name": "Cine Colombiano",
+    "file": "peliculas/cine-colombiano.m3u",
+    "count": 62
+  },
+  {
+    "name": "Comedía",
+    "file": "peliculas/comedia.m3u",
+    "count": 474
+  },
+  {
+    "name": "Documentales",
+    "file": "peliculas/documentales.m3u",
+    "count": 316
+  },
+  {
+    "name": "Fantasía",
+    "file": "peliculas/fantasia.m3u",
+    "count": 74
+  },
+  {
+    "name": "Infantiles",
+    "file": "peliculas/infantiles.m3u",
+    "count": 575
+  },
+  {
+    "name": "Peliculas Mexicanas",
+    "file": "peliculas/peliculas-mexicanas.m3u",
+    "count": 121
+  },
+  {
+    "name": "Peliculas Musicales",
+    "file": "peliculas/peliculas-musicales.m3u",
+    "count": 21
+  },
+  {
+    "name": "Navidad 2025",
+    "file": "peliculas/navidad-2025.m3u",
+    "count": 229
+  },
+  {
+    "name": "Peliculas Peruanas",
+    "file": "peliculas/peliculas-peruanas.m3u",
+    "count": 191
+  },
+  {
+    "name": "Semana Santa",
+    "file": "peliculas/semana-santa.m3u",
+    "count": 46
+  },
+  {
+    "name": "Cine retro",
+    "file": "peliculas/cine-retro.m3u",
+    "count": 1343
+  },
+  {
+    "name": "Romance",
+    "file": "peliculas/romance.m3u",
+    "count": 126
+  },
+  {
+    "name": "Crímen y Suspenso",
+    "file": "peliculas/crimen-y-suspenso.m3u",
+    "count": 291
+  },
+  {
+    "name": "Terror",
+    "file": "peliculas/terror.m3u",
+    "count": 452
+  },
+  {
+    "name": "Western",
+    "file": "peliculas/western.m3u",
+    "count": 124
+  },
+  {
+    "name": "Dc Universe",
+    "file": "peliculas/dc-universe.m3u",
+    "count": 193
+  },
+  {
+    "name": "Marvel",
+    "file": "peliculas/marvel.m3u",
+    "count": 95
+  },
+  {
+    "name": "Variadas",
+    "file": "peliculas/variadas.m3u",
+    "count": 657
+  },
+  {
+    "name": "Animadas",
+    "file": "peliculas/animadas.m3u",
+    "count": 485
+  },
+  {
+    "name": "Acción",
+    "file": "peliculas/accion.m3u",
+    "count": 411
+  },
+  {
+    "name": "Disney",
+    "file": "peliculas/disney.m3u",
+    "count": 95
+  },
+  {
+    "name": "Drama",
+    "file": "peliculas/drama.m3u",
+    "count": 470
+  },
+  {
+    "name": "Ciencia Ficción",
+    "file": "peliculas/ciencia-ficcion.m3u",
+    "count": 145
+  },
+  {
+    "name": "Cine Audio España",
+    "file": "peliculas/cine-audio-espana.m3u",
+    "count": 138
+  },
+  {
+    "name": "Aventura",
+    "file": "peliculas/aventura.m3u",
+    "count": 62
+  }
+]
