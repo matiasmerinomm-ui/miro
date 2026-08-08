@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 40,
-  "latestVersionName": "0.9.6",
-  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.6/MiroTv.apk",
-  "notes": "Controles de la TV reescritos: el menú se navega con arriba/abajo y OK sin depender del foco (ya no queda trabado), y el botón Atrás cierra el menú o la barra sin salir de la película.",
+  "latestVersionCode": 41,
+  "latestVersionName": "0.9.7",
+  "apkUrl": "https://github.com/matiasmerinomm-ui/miro/releases/download/v0.9.7/MiroTv.apk",
+  "notes": "Películas ahora cargan por categoría bajo demanda (mucho más rápido). El buscador sigue buscando en todo el catálogo de películas.",
   "mandatory": true,
   "graceDays": 2,
   "publishedAt": "2026-08-02"
