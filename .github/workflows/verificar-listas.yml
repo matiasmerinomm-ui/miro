@@ -1,0 +1,57 @@
+name: Verificar y estandarizar listas
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_entrada/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: verificar-listas
+  cancel-in-progress: false
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependencia
+        run: pip install requests
+
+      - name: Verificar y estandarizar
+        run: |
+          mkdir -p _salida
+          shopt -s nullglob
+          for f in _entrada/*; do
+            [ -f "$f" ] || continue
+            name=$(basename "$f")
+            case "$name" in README*|.*) continue;; esac
+            base="${name%.*}"
+            mode="full"
+            case "$base" in *serie*|*Serie*|*SERIE*) mode="series";; esac
+            echo "== $f (modo $mode) =="
+            python scripts/verificar.py "$f" "$mode" "_salida/$base.m3u" || true
+          done
+
+      - name: Commitear resultados
+        if: always()
+        run: |
+          git config user.name "miro-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _salida
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Auto: verificar y estandarizar listas (_salida)"
+            git push
+          fi
