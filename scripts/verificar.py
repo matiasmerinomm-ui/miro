@@ -45,10 +45,20 @@ def dispname(ext):
 
 def standardize(ext):
     name = dispname(ext) or attr(ext, "tvg-name")
+    tvgname = attr(ext, "tvg-name") or name
     logo = attr(ext, "tvg-logo")
     group = attr(ext, "group-title") or "Sin categoria"
-    tvgname = attr(ext, "tvg-name") or name
-    return f'#EXTINF:-1 tvg-name="{tvgname}" tvg-logo="{logo}" group-title="{group}",{name}'
+    chno = attr(ext, "tvg-chno")  # número de canal (para el zapping en TV)
+    tvgid = attr(ext, "tvg-id")
+    parts = ["#EXTINF:-1"]
+    if tvgid:
+        parts.append(f'tvg-id="{tvgid}"')
+    parts.append(f'tvg-name="{tvgname}"')
+    if chno:
+        parts.append(f'tvg-chno="{chno}"')
+    parts.append(f'tvg-logo="{logo}"')
+    parts.append(f'group-title="{group}"')
+    return " ".join(parts) + f",{name}"
 
 
 def series_key(ext):
