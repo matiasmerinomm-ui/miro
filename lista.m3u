@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png" group-title="Argentina",TN NOTICIAS
+#EXTINF:-1 tvg-chno="1" tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Argentina",TN NOTICIAS
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490437
 #MIRO-ALT:http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/490457
 #EXTINF:-1 tvg-chno="2" tvg-name="America" tvg-logo="https://telechancho.github.io/tvlogos/America.png" group-title="Argentina",America
@@ -431,7 +431,7 @@ http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/167771
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/514112
 #EXTINF:-1 tvg-chno="199" tvg-name="Real Madrid TV" tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png" group-title="Deportes Argentina",Real Madrid TV
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/394445
-#EXTINF:-1 tvg-chno="200" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/512px-Claro_Sports_logo.svg.png" group-title="Deportes Argentina",Claro Sports
+#EXTINF:-1 tvg-chno="200" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/LogoClaro2017.png" group-title="Deportes Argentina",Claro Sports
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/407036
 #EXTINF:-1 tvg-chno="201" tvg-name="Sudamericana OP1" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="Deportes Argentina",Sudamericana OP1
 http://redworld.pro:8880/Gx79604794/u52Wq7GXt4W9/547721
